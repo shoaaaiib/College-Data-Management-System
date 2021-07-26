@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1314894556 source:c:\users\hp\desktop\academic year 2020-21\sdp\ums\main.cpp
+	<iostream>
+
+1610341881 source:c:\users\hp\desktop\academic year 2020-21\sdp\ums\ums.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<cstring>
+	<fstream>
+	<algorithm>
+
